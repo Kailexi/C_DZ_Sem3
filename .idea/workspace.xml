@@ -88,7 +88,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.ex5.c">
+  <component name="RunManager" selected="C/C++ File.ex6.c">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -101,12 +101,6 @@
     </configuration>
     <configuration name="ex1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex1.c" CONFIG_NAME="ex1.c">
       <option name="sourceFile" value="DZ1_Normal\ex1.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex2.c" CONFIG_NAME="ex2.c">
-      <option name="sourceFile" value="DZ1_Normal\ex2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -129,21 +123,27 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex6.c" CONFIG_NAME="ex6.c">
+      <option name="sourceFile" value="DZ1_Normal\ex6.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="C/C++ File.ex1.c" />
-      <item itemvalue="C/C++ File.ex2.c" />
       <item itemvalue="C/C++ File.ex3.c" />
       <item itemvalue="C/C++ File.ex4.c" />
       <item itemvalue="C/C++ File.ex5.c" />
+      <item itemvalue="C/C++ File.ex6.c" />
       <item itemvalue="CMake Application.dzlab1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.ex6.c" />
         <item itemvalue="C/C++ File.ex5.c" />
         <item itemvalue="C/C++ File.ex4.c" />
         <item itemvalue="C/C++ File.ex3.c" />
         <item itemvalue="C/C++ File.ex1.c" />
-        <item itemvalue="C/C++ File.ex2.c" />
       </list>
     </recent_temporary>
   </component>

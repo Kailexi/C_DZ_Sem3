@@ -1,15 +1,5 @@
 #include <stdio.h>
 
-//Задание 6.
-void ex6(){
-
-}
-
-
-
-
-
-//Меню или просто чекер заданий dunno
 int main(){
 
     int number1, number2;

@@ -1,10 +1,6 @@
 #include <stdio.h>
 
 
-
-
-
-
 int main(){
     int minute;
 
@@ -20,3 +16,6 @@ int main(){
     }
 
 }
+
+
+

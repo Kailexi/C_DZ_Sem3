@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "dzlab1",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "dzlab1::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-dzlab1-Debug-7d23001f9627698c7bda.json",
 					"name" : "dzlab1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dzlab2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dzlab2-Debug-858faa5afde2ecc84af8.json",
+					"name" : "dzlab2",
 					"projectIndex" : 0
 				}
 			]

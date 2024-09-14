@@ -12,6 +12,7 @@
   <component name="CMakeRunConfigurationManager">
     <generated>
       <config projectName="dzlab1" targetName="dzlab1" />
+      <config projectName="dzlab1" targetName="dzlab2" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -20,23 +21,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b27057-d9c8-470b-9d19-a0f5ef0f9766" name="Changes" comment="DZ 1 MENU VERSION DONE + Comments">
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4.exe" afterDir="false" />
+    <list default="true" id="c0b27057-d9c8-470b-9d19-a0f5ef0f9766" name="Changes" comment="DZ1 Done">
+      <change afterPath="$PROJECT_DIR$/DZ2_MENU/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.cmake/api/v1/reply/cache-v2-18302adeb1cba27863b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1190ac85abff726aea33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-740683bc3c00ab91e8a9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-13T16-25-15-0066.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/dzlab1.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/dzlab1.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/dzlab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/dzlab1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Normal/ex3.c" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Normal/ex3.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +90,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.ex6.c">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sasha\CLionProjects\dzlab1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.dzlab2">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dzlab1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="dzlab1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dzlab1" RUN_TARGET_NAME="dzlab1">
+    <configuration name="dzlab1" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="dzlab1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dzlab1" RUN_TARGET_NAME="dzlab1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dzlab2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="dzlab2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dzlab1" RUN_TARGET_NAME="dzlab2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -136,6 +148,7 @@
       <item itemvalue="C/C++ File.ex5.c" />
       <item itemvalue="C/C++ File.ex6.c" />
       <item itemvalue="CMake Application.dzlab1" />
+      <item itemvalue="CMake Application.dzlab2" />
     </list>
     <recent_temporary>
       <list>
@@ -166,7 +179,15 @@
       <workItem from="1726241176619" duration="5000" />
       <workItem from="1726241715911" duration="124000" />
       <workItem from="1726241923935" duration="2703000" />
-      <workItem from="1726244677451" duration="957000" />
+      <workItem from="1726244677451" duration="2875000" />
+      <workItem from="1726252148648" duration="877000" />
+      <workItem from="1726299673739" duration="380000" />
+      <workItem from="1726300668643" duration="223000" />
+      <workItem from="1726304280543" duration="1214000" />
+      <workItem from="1726307095739" duration="90000" />
+      <workItem from="1726307227910" duration="17000" />
+      <workItem from="1726307297721" duration="32000" />
+      <workItem from="1726307601817" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="DZ almost done">
       <option name="closed" value="true" />
@@ -184,7 +205,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726244865382</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="DZ 1 FOR NORMAL PEOPLE DONE">
+      <option name="closed" value="true" />
+      <created>1726245741668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726245741668</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DZ 1 FOR NORMAL PEOPLE DONE">
+      <option name="closed" value="true" />
+      <created>1726245815730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726245815730</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DZ1 Done">
+      <option name="closed" value="true" />
+      <created>1726246368172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726246368172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +244,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DZ almost done" />
     <MESSAGE value="DZ 1 MENU VERSION DONE + Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ 1 MENU VERSION DONE + Comments" />
+    <MESSAGE value="DZ 1 FOR NORMAL PEOPLE DONE" />
+    <MESSAGE value="DZ1 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ1 Done" />
   </component>
 </project>

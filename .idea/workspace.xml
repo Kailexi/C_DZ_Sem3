@@ -11,7 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="dzlab1" targetName="dzlab1" />
+      <config projectName="dzlab2" targetName="dzlab2" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -20,24 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b27057-d9c8-470b-9d19-a0f5ef0f9766" name="Changes" comment="DZ 1 MENU VERSION DONE + Comments">
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1_Normal/ex6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/dzlab1.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/CMakeFiles/dzlab1.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/dzlab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Menu/cmake-build-debug/dzlab1.exe" afterDir="false" />
-    </list>
+    <list default="true" id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,14 +30,8 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="hgjrb25s" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+    <option name="directoryName" value="r00xunba" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -62,10 +39,9 @@
     <option name="minorVersion" value="2.2" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2ljXtHtd3ucVggJaPw5xb8hjedJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2mBmvGkmw9QoMrVYTEBeghDPVqk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,113 +54,86 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sasha/CLionProjects/dzlab1/DZ1_Menu/CMakeLists.txt&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sasha/CLionProject/dzlab2/DZLAB_Menu/CMakeLists.txt&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.ex6.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dzlab1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="dzlab1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dzlab1" RUN_TARGET_NAME="dzlab1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sasha\CLionProject\dzlab2\DZLAB2_Normal" />
+      <recent name="C:\Users\sasha\CLionProject\dzlab2\DZLAB_Menu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.ex8.c">
+    <configuration name="dzlab2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="dzlab2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dzlab2" RUN_TARGET_NAME="dzlab2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex1.c" CONFIG_NAME="ex1.c">
-      <option name="sourceFile" value="DZ1_Normal\ex1.c" />
+    <configuration name="ex4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex4.c" CONFIG_NAME="ex4.c">
+      <option name="sourceFile" value="DZLAB2_Normal\ex4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex3.c" CONFIG_NAME="ex3.c">
-      <option name="sourceFile" value="DZ1_Normal\ex3.c" />
+    <configuration name="ex5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex5.c" CONFIG_NAME="ex5.c">
+      <option name="sourceFile" value="DZLAB2_Normal\ex5.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex4.c" CONFIG_NAME="ex4.c">
-      <option name="sourceFile" value="DZ1_Normal\ex4.c" />
+    <configuration name="ex6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex6.c" CONFIG_NAME="ex6.c">
+      <option name="sourceFile" value="DZLAB2_Normal\ex6.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex5.c" CONFIG_NAME="ex5.c">
-      <option name="sourceFile" value="DZ1_Normal\ex5.c" />
+    <configuration name="ex7.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex7.c" CONFIG_NAME="ex7.c">
+      <option name="sourceFile" value="DZLAB2_Normal\ex7.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab1" TARGET_NAME="ex6.c" CONFIG_NAME="ex6.c">
-      <option name="sourceFile" value="DZ1_Normal\ex6.c" />
+    <configuration name="ex8.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex8.c" CONFIG_NAME="ex8.c">
+      <option name="sourceFile" value="DZLAB2_Normal\ex8.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.ex1.c" />
-      <item itemvalue="C/C++ File.ex3.c" />
       <item itemvalue="C/C++ File.ex4.c" />
       <item itemvalue="C/C++ File.ex5.c" />
       <item itemvalue="C/C++ File.ex6.c" />
-      <item itemvalue="CMake Application.dzlab1" />
+      <item itemvalue="C/C++ File.ex7.c" />
+      <item itemvalue="C/C++ File.ex8.c" />
+      <item itemvalue="CMake Application.dzlab2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.ex8.c" />
+        <item itemvalue="C/C++ File.ex7.c" />
         <item itemvalue="C/C++ File.ex6.c" />
         <item itemvalue="C/C++ File.ex5.c" />
         <item itemvalue="C/C++ File.ex4.c" />
-        <item itemvalue="C/C++ File.ex3.c" />
-        <item itemvalue="C/C++ File.ex1.c" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c0b27057-d9c8-470b-9d19-a0f5ef0f9766" name="Changes" comment="" />
-      <created>1725694672837</created>
+      <changelist id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="" />
+      <created>1726558572627</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1725694672837</updated>
-      <workItem from="1725694678197" duration="302000" />
-      <workItem from="1725710404179" duration="261000" />
-      <workItem from="1725710683763" duration="1703000" />
-      <workItem from="1726133812193" duration="1390000" />
-      <workItem from="1726135243461" duration="518000" />
-      <workItem from="1726239252501" duration="512000" />
-      <workItem from="1726239865512" duration="347000" />
-      <workItem from="1726240243622" duration="913000" />
-      <workItem from="1726241176619" duration="5000" />
-      <workItem from="1726241715911" duration="124000" />
-      <workItem from="1726241923935" duration="2703000" />
-      <workItem from="1726244677451" duration="957000" />
+      <updated>1726558572627</updated>
+      <workItem from="1726558574000" duration="103000" />
+      <workItem from="1726558704140" duration="3219000" />
+      <workItem from="1726562083754" duration="1000" />
     </task>
-    <task id="LOCAL-00001" summary="DZ almost done">
-      <option name="closed" value="true" />
-      <created>1726242523008</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1726242523009</updated>
-    </task>
-    <task id="LOCAL-00002" summary="DZ 1 MENU VERSION DONE + Comments">
-      <option name="closed" value="true" />
-      <created>1726244865382</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1726244865382</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,10 +144,5 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticFoundErrors value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="DZ almost done" />
-    <MESSAGE value="DZ 1 MENU VERSION DONE + Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ 1 MENU VERSION DONE + Comments" />
   </component>
 </project>

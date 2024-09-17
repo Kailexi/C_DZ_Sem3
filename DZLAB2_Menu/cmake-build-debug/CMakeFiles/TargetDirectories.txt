@@ -1,0 +1,3 @@
+C:/Users/sasha/CLionProject/dzlab2/DZLAB_Menu/cmake-build-debug/CMakeFiles/dzlab2.dir
+C:/Users/sasha/CLionProject/dzlab2/DZLAB_Menu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sasha/CLionProject/dzlab2/DZLAB_Menu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

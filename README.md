@@ -17,7 +17,7 @@ Look through them don't take them to heart, some may not be correct sometimes wh
 
 # WARNING
 
-Please if u want to launch with debug and CMAKE download DZLAB1 as well, since the cmake-debug folder is there, my bad
+Please if u want to launch with debug and CMAKE do it at your own risk
 
 
 

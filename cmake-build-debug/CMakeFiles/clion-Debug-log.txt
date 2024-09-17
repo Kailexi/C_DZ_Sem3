@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\sasha\CLionProject\dzlab2 Select CMakeLists.txt

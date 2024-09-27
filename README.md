@@ -18,7 +18,8 @@ Look through them don't take them to heart, some may not be correct sometimes wh
 # WARNING
 
 Please if u want to launch with debug and CMAKE do it at your own risk
-
+Recomendation: if you want a specific laboratory work to transfer to your pc donwnload both normal and menu versions
+Due to CMAKE debug folders and configs within.
 
 
 # Probably will forget about following this, but eh it's fine, right? 🤔

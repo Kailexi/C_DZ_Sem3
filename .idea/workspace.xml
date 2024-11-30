@@ -18,55 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="DZ LAB3 Complete + Comments/Normal mode/Menu mode">
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/.idea/laba4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ed0dece7211c7f681a2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b4824253dcf7ea03efcc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-63424fde308f364900dc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/reply/index-2024-11-30T06-28-09-0649.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/reply/target-laba4-Debug-331e4ea38e52312c17ba.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1a91e91f1c114e4c2010.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/4.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZLAB4_Normal/normal/6.exe" afterDir="false" />
+    <list default="true" id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="DZ LAB3-9 Complete + Comments/Normal mode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZLAB3_Normal/ex6.c" beforeDir="false" afterPath="$PROJECT_DIR$/DZLAB3_Normal/ex6.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +264,8 @@
       <workItem from="1727438534553" duration="372000" />
       <workItem from="1727441353889" duration="101000" />
       <workItem from="1732950208421" duration="257000" />
-      <workItem from="1732954643191" duration="1000" />
+      <workItem from="1732954643191" duration="183000" />
+      <workItem from="1732956019327" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="DZ LAB2 Fully done + Comments/Normal mode/Menu mode">
       <option name="closed" value="true" />
@@ -345,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727438620545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DZ LAB3-9 Complete + Comments/Normal mode">
+      <option name="closed" value="true" />
+      <created>1732954673645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732954673645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +323,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DZ LAB2 Fully done + Comments/Normal mode/Menu mode" />
     <MESSAGE value="DZ LAB3 Complete + Comments/Normal mode/Menu mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ LAB3 Complete + Comments/Normal mode/Menu mode" />
+    <MESSAGE value="DZ LAB3-9 Complete + Comments/Normal mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ LAB3-9 Complete + Comments/Normal mode" />
   </component>
 </project>

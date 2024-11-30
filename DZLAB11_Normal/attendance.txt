@@ -1,0 +1,4 @@
+Amelia: y
+Alex: n
+Marc: y
+Sobchak: y

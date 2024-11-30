@@ -18,7 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="DZ LAB3-9 Complete + Comments/Normal mode">
+    <list default="true" id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="DZ LAB8-10 Complete + Comments/Normal mode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,11 @@
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.ex8.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex4.c" CONFIG_NAME="ex4.c">
       <option name="sourceFile" value="DZLAB2_Normal\ex4.c" />
       <method v="2">
@@ -265,7 +270,8 @@
       <workItem from="1727441353889" duration="101000" />
       <workItem from="1732950208421" duration="257000" />
       <workItem from="1732954643191" duration="183000" />
-      <workItem from="1732956019327" duration="1000" />
+      <workItem from="1732956019327" duration="132000" />
+      <workItem from="1732956964856" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="DZ LAB2 Fully done + Comments/Normal mode/Menu mode">
       <option name="closed" value="true" />
@@ -307,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732954673645</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DZ LAB8-10 Complete + Comments/Normal mode">
+      <option name="closed" value="true" />
+      <created>1732956038446</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732956038446</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +338,7 @@
     <MESSAGE value="DZ LAB2 Fully done + Comments/Normal mode/Menu mode" />
     <MESSAGE value="DZ LAB3 Complete + Comments/Normal mode/Menu mode" />
     <MESSAGE value="DZ LAB3-9 Complete + Comments/Normal mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ LAB3-9 Complete + Comments/Normal mode" />
+    <MESSAGE value="DZ LAB8-10 Complete + Comments/Normal mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ LAB8-10 Complete + Comments/Normal mode" />
   </component>
 </project>

@@ -15,6 +15,7 @@ int main(int argc, char **argv)
     printf("How much water do you drink daily (in quarts just short of a litre):\n");
     scanf_s("%lf", &almost_litres); // why quarts, we are Russian we drink litres of vodka lmao...
 
+
     grams = almost_litres * 950;
     molecules = grams / 3.0e-23; // no pow, only math notation is the GOAT
 

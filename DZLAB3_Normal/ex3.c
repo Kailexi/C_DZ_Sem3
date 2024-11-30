@@ -13,6 +13,7 @@ int main()
 {
     float number;
 
+
     printf_s("Enter floating-point number:"); // Didn't we do this already?
     // I guess who cares right?
 

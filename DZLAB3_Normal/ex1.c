@@ -13,6 +13,7 @@
 int main(void)
 {
 
+
     char name[50], surname[50];
 
     printf_s("Enter your name and surname:\n");

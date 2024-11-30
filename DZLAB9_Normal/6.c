@@ -12,6 +12,7 @@
 //В лабах выше 3 уже есть русский я пофиксил
 
 
+
 typedef int (*Operation)(int, int);
 
 int add(int a, int b) {

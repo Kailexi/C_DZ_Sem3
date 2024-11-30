@@ -22,6 +22,7 @@ int main() {
 
     setlocale(LC_ALL,"Russian");
 
+
     int a, b;
 
     printf("¬ведите два числа: ");

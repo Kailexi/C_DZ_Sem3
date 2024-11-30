@@ -23,6 +23,7 @@ void turn_air_conditioner_on() {
     printf("Кондиционер включен.\n");
 }
 
+
 void maintain_temperature() {
     printf("Температура поддерживается.\n");
 }

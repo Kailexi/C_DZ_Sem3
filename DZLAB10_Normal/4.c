@@ -16,6 +16,8 @@
 
 
 
+
+
 typedef enum { MANAGER, ENGINEER, SALES } Role;
 
 typedef union {

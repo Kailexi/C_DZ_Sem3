@@ -29,6 +29,7 @@ int main() {
 
     setlocale(LC_ALL,"Russian");
 
+
     char s[101];
 
 

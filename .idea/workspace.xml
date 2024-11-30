@@ -18,8 +18,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="DZ LAB8-10 Complete + Comments/Normal mode">
+    <list default="true" id="27309d4a-a1e4-4983-8219-0469de24a1cc" name="Changes" comment="DZ LAB11 Complete + Comments/Normal mode">
+      <change afterPath="$PROJECT_DIR$/ex1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Normal/ex1.c" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Normal/ex1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ1_Normal/ex2.c" beforeDir="false" afterPath="$PROJECT_DIR$/DZ1_Normal/ex2.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +76,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -79,38 +86,38 @@
       <recent name="C:\Users\sasha\CLionProject\dzlab2\DZLAB_Menu" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.ex8.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex4.c" CONFIG_NAME="ex4.c">
-      <option name="sourceFile" value="DZLAB2_Normal\ex4.c" />
+  <component name="RunManager" selected="C/C++ File.1.c (1)">
+    <configuration name="1.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DZ_Sem3" TARGET_NAME="1.c" CONFIG_NAME="1.c (1)">
+      <option name="sourceFile" value="DZLAB10_Normal\1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex5.c" CONFIG_NAME="ex5.c">
-      <option name="sourceFile" value="DZLAB2_Normal\ex5.c" />
+    <configuration name="1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DZ_Sem3" TARGET_NAME="1.c" CONFIG_NAME="1.c">
+      <option name="sourceFile" value="DZLAB11_Normal\normalk\1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex6.c" CONFIG_NAME="ex6.c">
-      <option name="sourceFile" value="DZLAB2_Normal\ex6.c" />
+    <configuration default="true" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="true" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex7.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex7.c" CONFIG_NAME="ex7.c">
-      <option name="sourceFile" value="DZLAB2_Normal\ex7.c" />
+    <configuration name="ex3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DZ_Sem3" TARGET_NAME="ex3.c" CONFIG_NAME="ex3.c">
+      <option name="sourceFile" value="DZ1_Normal\ex3.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex8.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dzlab2" TARGET_NAME="ex8.c" CONFIG_NAME="ex8.c">
-      <option name="sourceFile" value="DZLAB2_Normal\ex8.c" />
+    <configuration name="ex4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DZ_Sem3" TARGET_NAME="ex4.c" CONFIG_NAME="ex4.c">
+      <option name="sourceFile" value="DZ1_Normal\ex4.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DZ_Sem3" TARGET_NAME="ex6.c" CONFIG_NAME="ex6.c">
+      <option name="sourceFile" value="DZ1_Normal\ex6.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -239,19 +246,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.1.c (1)" />
+      <item itemvalue="C/C++ File.1.c" />
+      <item itemvalue="C/C++ File.ex3.c" />
       <item itemvalue="C/C++ File.ex4.c" />
-      <item itemvalue="C/C++ File.ex5.c" />
       <item itemvalue="C/C++ File.ex6.c" />
-      <item itemvalue="C/C++ File.ex7.c" />
-      <item itemvalue="C/C++ File.ex8.c" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.ex8.c" />
-        <item itemvalue="C/C++ File.ex7.c" />
+        <item itemvalue="C/C++ File.1.c (1)" />
+        <item itemvalue="C/C++ File.1.c" />
         <item itemvalue="C/C++ File.ex6.c" />
-        <item itemvalue="C/C++ File.ex5.c" />
         <item itemvalue="C/C++ File.ex4.c" />
+        <item itemvalue="C/C++ File.ex3.c" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +278,9 @@
       <workItem from="1732950208421" duration="257000" />
       <workItem from="1732954643191" duration="183000" />
       <workItem from="1732956019327" duration="132000" />
-      <workItem from="1732956964856" duration="4000" />
+      <workItem from="1732956964856" duration="1338000" />
+      <workItem from="1732959165018" duration="510000" />
+      <workItem from="1732960163551" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="DZ LAB2 Fully done + Comments/Normal mode/Menu mode">
       <option name="closed" value="true" />
@@ -321,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732956038446</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DZ LAB11 Complete + Comments/Normal mode">
+      <option name="closed" value="true" />
+      <created>1732956980239</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732956980239</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +356,11 @@
     <MESSAGE value="DZ LAB3 Complete + Comments/Normal mode/Menu mode" />
     <MESSAGE value="DZ LAB3-9 Complete + Comments/Normal mode" />
     <MESSAGE value="DZ LAB8-10 Complete + Comments/Normal mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ LAB8-10 Complete + Comments/Normal mode" />
+    <MESSAGE value="DZ LAB11 Complete + Comments/Normal mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ LAB11 Complete + Comments/Normal mode" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

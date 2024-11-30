@@ -13,6 +13,7 @@
 int main()
 {
 
+
     char name[100];
 
     printf_s("Enter your name:\n");

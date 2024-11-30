@@ -12,6 +12,7 @@
 
 
 
+
 typedef union {
     float temperature; // Температура
     float humidity;    // Влажность

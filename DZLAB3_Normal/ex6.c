@@ -22,6 +22,7 @@ int main()
 
     printf_s("%s %s\n", name, surname);
 
+
     printf_s("%*d %*d\n", strlen(name), strlen(name),
              strlen(surname), strlen(surname));
 

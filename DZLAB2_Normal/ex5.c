@@ -19,6 +19,7 @@ int main(int argc, char **argv)
 
     printf("You have lived already more than %lf seconds", seconds);
 
+
     //кто сидит в визуалке вам бы в конце всех задач бы getchar() делать
     //а могли просто скачать CLION...
     //страдайте так сказать

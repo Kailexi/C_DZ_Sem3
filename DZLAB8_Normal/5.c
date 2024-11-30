@@ -29,6 +29,7 @@ int main() {
     int n;
 
 
+
     printf("¬ведите число: ");
     scanf("%d", &n);
 

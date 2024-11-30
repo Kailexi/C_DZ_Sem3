@@ -13,6 +13,7 @@ int main(int argc, char **argv)
     int ascii_number; // Никаких char, только int, тут может быть accessed restricted memory
     // или по другому 0xc0000005 error
 
+
     printf_s("Enter ASCII code:\n");
     scanf_s("%d", &ascii_number);
 

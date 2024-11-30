@@ -11,6 +11,7 @@
 //В лабах выше 3 уже есть русский я пофиксил
 
 
+
 void swap_elements(int arr[], int i, int j) {
     int temp = arr[i];
     arr[i] = arr[j];

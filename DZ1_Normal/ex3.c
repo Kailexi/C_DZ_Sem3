@@ -8,6 +8,7 @@ int main(){
     scanf_s("%d", &minute);
 
 
+
     if((minute / 60) == 1){
         printf_s("You have %d hour and %d minutes left\n", minute / 60, minute % 60);
     }

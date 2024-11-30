@@ -17,6 +17,7 @@ int main(int argc, char **argv)
     scanf_s("%;f", &number);
 
 
+
     printf_s("Fixed-point: %lf\n", number);
     printf_s("Exponential: %e\n", number);
     printf_s("P notation: %a\n", number); // Не всегда работает

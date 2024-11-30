@@ -20,6 +20,7 @@ int main() {
     int n, sum = 0;
 
 
+
     printf("¬ведите размер массива: ");
     scanf("%d", &n);
 

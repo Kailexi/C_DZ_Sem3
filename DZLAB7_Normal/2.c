@@ -26,6 +26,7 @@ int main() {
 
     setlocale(LC_ALL,"Russian");
 
+
     int n;
 
     printf("¬ведите количество элементов массива: ");

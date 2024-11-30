@@ -23,6 +23,7 @@ typedef struct Node {
 } Node;
 
 
+
 void append(Node** head, int value) {
     Node* new_node = (Node*)malloc(sizeof(Node));  // Создаем новый элемент
     new_node->data = value;                         // Устанавливаем значение

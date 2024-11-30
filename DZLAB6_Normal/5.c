@@ -26,6 +26,7 @@ int main() {
         return 1;
     }
 
+
     // Выделение памяти для массива голосов
     int* votes = (int*)calloc(num_candidates, sizeof(int)); // Инициализация 0
     if (votes == NULL) {

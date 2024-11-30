@@ -15,6 +15,7 @@
 
 
 
+
 int* createMatrix(int M, int N) {
     const unsigned int MaxNumber = 100;
     int* matrix;

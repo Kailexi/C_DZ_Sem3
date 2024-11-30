@@ -13,6 +13,7 @@ int main(){
                (five_digit_number / 10) % 10,
                five_digit_number % 10);
 
+
     }
     else{
         printf("Not a 5 digit number sorry");

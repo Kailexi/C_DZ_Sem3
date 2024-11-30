@@ -18,6 +18,7 @@ int main()
     printf_s("Enter your name:\n");
     scanf_s("%s", &name);
 
+
     printf_s("Enter your height in cm:\n");
     scanf_s("%f", &cm);
 

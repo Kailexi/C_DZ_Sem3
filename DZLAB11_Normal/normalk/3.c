@@ -15,6 +15,7 @@
 int main() {
 
 
+
     setlocale(LC_ALL,"Russian");
 
     FILE *sourceFile, *destinationFile;

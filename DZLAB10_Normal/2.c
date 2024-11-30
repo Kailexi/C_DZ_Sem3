@@ -13,6 +13,7 @@
 //В лабах выше 3 уже есть русский я пофиксил
 
 
+
 typedef struct {
     char title[100];
     char author[100];

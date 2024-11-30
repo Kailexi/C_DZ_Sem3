@@ -12,7 +12,8 @@
 
 int main(int argc, char **argv)
 {
-    printf_s("\aScared by sudden sound, Vika yelled:\n"); //Старый добрый \a создает звук
+
+   printf_s("\aScared by sudden sound, Vika yelled:\n"); //Старый добрый \a создает звук
     // чтобы испугать тебя что у тебя наушники отключились или мышка хддд
 
     printf_s("\"By the all stars, what was it!\"");

@@ -11,6 +11,7 @@
 //В лабах выше 3 уже есть русский я пофиксил
 
 
+
 typedef struct {
     int hours;
     int minutes;

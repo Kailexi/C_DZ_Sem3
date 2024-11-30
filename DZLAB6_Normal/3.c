@@ -21,6 +21,7 @@ int main() {
 
     setlocale(LC_ALL,"Russian");
 
+
     srand(time(0));
 
     int N1, M1, N2, M2;

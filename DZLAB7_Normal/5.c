@@ -31,6 +31,7 @@ void filter_primes(int arr[], int size, int (*condition)(int)) {
     printf("\n");
 }
 
+
 int main() {
 
     setlocale(LC_ALL,"Russian");

@@ -17,6 +17,7 @@ int main(){
     printf_s("  *  *  *  *\n");
 
 
+
     //Вариант 2 ура ура всё в 1 одном print_s
 
     printf_s("\n\n\n\n\t*\t*\t*\t*"

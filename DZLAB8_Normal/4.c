@@ -29,6 +29,7 @@ void reverse_string(char s[], int start, int end) {
     reverse_string(s, start + 1, end - 1);
 }
 
+
 int main() {
 
     setlocale(LC_ALL,"Russian");

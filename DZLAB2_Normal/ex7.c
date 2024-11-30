@@ -15,6 +15,8 @@ int main(int argc, char **argv)
     const double cm_to_inch = 2.54; // je ne veux pas faire cet exercice
     //I'm definitely 6 foot i promise
 
+
+
     printf("Your height in cm:\n");
     scanf_s("%lf", &height_cm);
 

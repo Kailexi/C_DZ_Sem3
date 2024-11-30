@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\sasha\CLionProjects\C_DZ_Sem3\DZLAB_Menu Select CMakeLists.txt

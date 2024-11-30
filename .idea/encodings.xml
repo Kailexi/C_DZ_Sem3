@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$PROJECT_DIR$/DZLAB8_Normal/7.c" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/DZLAB9_Normal/1.c" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/DZLAB9_Normal/2.c" charset="windows-1251" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>

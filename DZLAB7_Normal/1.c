@@ -30,5 +30,8 @@ int main() {
 
     printf("Ñóììà: %d\n", sum(a, b));
 
+
+    
+
     return 0;
 }

@@ -23,8 +23,8 @@ int power(int x, int n) {
 
 int main() {
 
-    setlocale(LC_ALL,"Russian");
 
+    setlocale(LC_ALL,"Russian");
     int x, n;
 
 

@@ -14,6 +14,7 @@
 
 
 
+
 typedef struct {
     char title[100];
     char author[100];
@@ -22,8 +23,7 @@ typedef struct {
 } Book;
 
 int main() {
-
-    setlocale(LC_ALL,"Russian");
+    setlocale(LC_ALL, "Russian");
 
     int n;
 
@@ -41,25 +41,39 @@ int main() {
     // Заполнение информации о книгах
     for (int i = 0; i < n; i++) {
         printf("\nКнига %d:\n", i + 1);
+
+        // Очищаем буфер перед вводом строк
+        while (getchar() != '\n');
+
         printf("Введите название книги: ");
-        getchar(); // Очищаем буфер
         fgets(books[i].title, 100, stdin);
-        books[i].title[strcspn(books[i].title, "\n")] = 0; // Убираем символ новой строки
+        books[i].title[strcspn(books[i].title, "\n")] = '\0'; // Убираем символ новой строки
+
         printf("Введите автора книги: ");
         fgets(books[i].author, 100, stdin);
-        books[i].author[strcspn(books[i].author, "\n")] = 0; // Убираем символ новой строки
+        books[i].author[strcspn(books[i].author, "\n")] = '\0'; // Убираем символ новой строки
+
         printf("Введите год издания книги: ");
         scanf("%d", &books[i].year);
+
         printf("Введите статус доступности (1 - доступна, 0 - не доступна): ");
         scanf("%d", &books[i].available);
+
+        // Проверка корректности ввода доступности
+        if (books[i].available != 0 && books[i].available != 1) {
+            printf("Неверный ввод доступности. Устанавливаю значение по умолчанию: 0 (не доступна).\n");
+            books[i].available = 0;
+        }
     }
 
     // Поиск книги по названию
     char search_title[100];
     printf("\nВведите название книги для поиска: ");
-    getchar(); // Очищаем буфер
+
+    // Очищаем буфер перед вводом строки
+    while (getchar() != '\n');
     fgets(search_title, 100, stdin);
-    search_title[strcspn(search_title, "\n")] = 0; // Убираем символ новой строки
+    search_title[strcspn(search_title, "\n")] = '\0'; // Убираем символ новой строки
 
     int found = 0;
     for (int i = 0; i < n; i++) {
@@ -78,8 +92,8 @@ int main() {
         printf("Книга не найдена.\n");
     }
 
-
     free(books);
 
     return 0;
 }
+

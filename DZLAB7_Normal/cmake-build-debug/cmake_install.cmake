@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/sasha/CLionProject/lab7
+# Install script for directory: C:/Users/sasha/CLionProjects/C_DZ_Sem3/DZLAB7_Normal
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/sasha/CLionProject/lab7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/sasha/CLionProjects/C_DZ_Sem3/DZLAB7_Normal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

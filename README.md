@@ -34,8 +34,9 @@ Due to CMAKE debug folders and configs within.
 
 Here are some related projects
 
-[RUDN SEMESTER 1 work](https://github.com/Kailexi/RUDN_sem1)
-[MKP SEMESTER 3 work](https://github.com/Kailexi/MKPLABS-RUDN)
+[RUDN SEMESTER 1 WORK](https://github.com/Kailexi/RUDN_sem1)
+
+[MKP SEMESTER 3 WORK](https://github.com/Kailexi/MKPLABS-RUDN)
 
 
 

@@ -22,7 +22,6 @@ Recomendation: if you want a specific laboratory work to transfer to your pc don
 Due to CMAKE debug folders and configs within.
 
 
-# Probably will forget about following this, but eh it's fine, right? 🤔
  
 
 ## Author
@@ -39,7 +38,7 @@ Here are some related projects
 [MKP SEMESTER 3 WORK](https://github.com/Kailexi/MKPLABS-RUDN)
 
 
-
+# GL to anyone reading this❤️
 
 
 

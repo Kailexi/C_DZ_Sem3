@@ -90,11 +90,6 @@
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.1.c (3)">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="1.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DZ_Sem3" TARGET_NAME="1.c" CONFIG_NAME="1.c (1)">
       <option name="sourceFile" value="DZLAB10_Normal\1.c" />
       <method v="2">
@@ -299,6 +294,7 @@
       <workItem from="1732962115415" duration="2000" />
       <workItem from="1732962443073" duration="365000" />
       <workItem from="1732962889340" duration="80000" />
+      <workItem from="1733394959202" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="DZ LAB2 Fully done + Comments/Normal mode/Menu mode">
       <option name="closed" value="true" />

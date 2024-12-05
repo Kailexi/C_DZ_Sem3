@@ -18,7 +18,7 @@ Look through them don't take them to heart, some may not be correct sometimes wh
 # WARNING
 # DUE TO enconding troubles please download raw version of files staring from lab4
 Please if u want to launch with debug and CMAKE do it at your own risk
-Recomendation: if you want a specific laboratory work to transfer to your pc donwnload both normal and menu versions
+Recomendation: if you want a specific laboratory work to transfer to your pc download both normal and menu versions
 Due to CMAKE debug folders and configs within.
 
 
